@@ -1,0 +1,10 @@
+smolagents 
+litellm
+statsmodels
+scikit-learn
+beautifulsoup4
+matplotlib 
+geopandas 
+shapely 
+kaleido
+selenium
